@@ -1,4 +1,4 @@
-but[
+[
     {
         "device_id": "device123",
         "key": "key12345",
@@ -8,13 +8,13 @@ but[
     {
         "device_id": "device456",
         "key": "key67890",
-        "expirydate": "15-06-2025",
+        "expirydate": "15-06-2026",
         "Allowoffline": false
     },
     {
         "device_id": "device456",
         "key": "key67890",
-        "expirydate": "15-06-2025",
+        "expirydate": "15-06-2026",
         "Allowoffline": false
     },
     {
